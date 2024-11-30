@@ -1,21 +1,21 @@
-# baseURL = "https://your_domain.com/"
+baseURL = "https://linktree.trami.dev/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Lynx"
-# copyright = "Copy, _right?_ :thinking_face:"
+title = "Links"
+copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  # name = "Your name here"
-  # headline = "An awesome person"
-  # image = "img/author.jpg"  # path relative to static directory
+  name = "Tomas Ramirez aka trami"
+  headline = "Game Developer"
+  image = "img/author.jpg"  # path relative to static directory
 
   links = [
-    # { email = "mailto:hello@your_domain.com" },
-    # { link = "https://link-to-some-website.com/" },
+    { email = "mailto:hello@trami.dev" },
+    { website = "https://trami.dev/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { bandcamp = "https://username.bandcamp.com" },
@@ -27,10 +27,10 @@ disableKinds = ["taxonomy", "term"]
     # { facebook = "https://facebook.com/username" },
     # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
-    # { github = "https://github.com/username" },
+    { github = "https://github.com/tramidev" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-    # { instagram = "https://instagram.com/username" },
+    { instagram = "https://instagram.com/trami.dev" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
@@ -56,7 +56,7 @@ disableKinds = ["taxonomy", "term"]
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
     # { x = "https://x.com/username" },
-    # { youtube = "https://youtube.com/username" },
+    { youtube = "https://trami.dev" },
   ]
 
 [module]
